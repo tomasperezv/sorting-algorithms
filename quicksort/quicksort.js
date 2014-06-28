@@ -38,7 +38,7 @@ var partition = function(a, left, right) {
 
   swap(a, sortedIndex, right);
 
-  return pivotIndex;
+  return sortedIndex;
 
 };
 
