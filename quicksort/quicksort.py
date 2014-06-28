@@ -1,3 +1,6 @@
+'''
+Example of an implementation of quicksort in Python
+'''
 def swap(a, i, j):
     tmp = a[i]
     a[i] = a[j]
